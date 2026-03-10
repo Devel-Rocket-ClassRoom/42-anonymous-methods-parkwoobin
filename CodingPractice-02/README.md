@@ -66,7 +66,7 @@ factor = 10일 때: 50
 **실행 결과**
 
 ```
-counter1: 1
+CreateCounter
 counter1: 2
 counter1: 3
 counter2: 1
